@@ -2,9 +2,11 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=0&duration=4000&color=FF00FF&center=true&width=700&lines=Silvia Avelar" alt="Typing SVG" /></a></h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=Fira&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Estudante+de+QA...;+Quality+Assurance..." />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=Fira&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Quality+Assurance..." />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br><br><br>
+
+<!-- **************************************************************** LINGUAGENS **************************************************************** -->
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -44,16 +46,19 @@
         <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
       <br>Java
     </td>
-</div>
+  </div>
+  
+<!-- **************************************************************** CONTATOS **************************************************************** -->
 
-<!-- **************************************************************** CONTATO **************************************************************** -->
-<div align="center">
 <table align="center">
+<div align="center">
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-&logo=whatsapp&logoColor=white)](https://wa.me/message/F62qtdz5nh7cg1)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://https://instagram.com/silvia.avelar01) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvia-cristina-pereira-448502173)
 [![Gmail](https://img.shields.io/badge/Gmail-%23ea4335.svg?logo=Gmail&logoColor=white)](scjc021211@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-&logo=telegram&logoColor=white)](https://telegram.com/SilviaAvelar)
-
+ 
 </div>
+
+---
