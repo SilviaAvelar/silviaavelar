@@ -42,11 +42,7 @@
         <img src="https://skillicons.dev/icons?i=selenium" width="40" height="40" alt="Selenium" />
       <br>Selenium
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
-      <br>Java
-    </td>
-  </div>
+</div>
   
 <!-- **************************************************************** CONTATOS **************************************************************** -->
 
