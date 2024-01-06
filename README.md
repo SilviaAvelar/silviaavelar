@@ -44,18 +44,15 @@
     </td>
     
 </div>
-
  
 <!-- **************************************************************** CONTATOS **************************************************************** -->
 
 <table align="center">
 <div align="center">
 
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/silvia.avelar01) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvia-avelar)
-[![Telegram](https://img.shields.io/badge/Telegram-&logo=telegram&logoColor=white)](https://telegram.com/SilviaAvelar)
-[![Yahoo](https://img.shields.io/badge/Yahoo-%23E4405F.svg?logo=Yahoo&logoColor=white)](https://mailto:avelar.silvia@yahoo.com) 
+<a href="https://instagram.com/silvia.avelar01" target="_blank"><img src="https://img.shields.io/badge/-Instagram:silvia.avelar01-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="http://www.linkedin.com/in/silvia-avelar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:avelar.silvia@yahoo.com"><img src="https://img.shields.io/badge/-Email: avelar.silvia@yahoo.com-%23E4405F?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
 
 </div>
 
