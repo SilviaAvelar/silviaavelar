@@ -42,17 +42,15 @@
         <img src="https://skillicons.dev/icons?i=selenium" width="40" height="40" alt="Selenium" />
       <br>Selenium
     </td>
-    <td align="center" width="96">
-        <img src="https://img.shields.io/badge/cypress-239120?style=for-the-badge&logo=cypress" width="40" height="40" alt="Cypress" />
-      <br>Cypress
-    </td>
+    
 </div>
 
-  ![Cypress](https://img.shields.io/badge/cypress-239120?style=for-the-badge&logo=cypress)&nbsp;
+ 
 <!-- **************************************************************** CONTATOS **************************************************************** -->
 
 <table align="center">
 <div align="center">
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/silvia.avelar01) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvia-avelar)
