@@ -49,7 +49,10 @@
 <table align="center">
 <div align="center">
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-&logo=whatsapp&logoColor=white)](https://wa.me/message/F62qtdz5nh7cg1)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Silvia%20Avelar-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvia-avelar/)](https://www.linkedin.com/in/silvia-avelar) 
+[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/silvia.avelar01) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvia-avelar)
 [![Gmail](https://img.shields.io/badge/Gmail-%23ea4335.svg?logo=Gmail&logoColor=white)](scjc021211@gmail.com)
