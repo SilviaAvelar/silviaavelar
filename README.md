@@ -8,51 +8,44 @@
 
 <!-- **************************************************************** LINGUAGENS **************************************************************** -->
 
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
-      <br>Github
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
-      <br>Git
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
-      <br>Nodejs
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
-      <br>VsCode
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=selenium" width="40" height="40" alt="Selenium" />
-      <br>Selenium
-    </td>
-    
-</div>
- 
-<!-- **************************************************************** CONTATOS **************************************************************** -->
-
 <table align="center">
 <div align="center">
 
-<a href="http://www.linkedin.com/in/silvia-avelar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="mailto:avelar.silvia@yahoo.com"><img src="https://img.shields.io/badge/-Email: avelar.silvia@yahoo.com-%23E4405F?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
+## ⚡ Technologies
+
+These are some of the technologies and tools that I work with:
+
+Backend
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+
+Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+Frameworks
+![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
+![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
+
+Tools:
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
+
+IDEs:
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+Agile Methodologies:
+![Kanban](https://img.shields.io/badge/-Kanban-2C2255?style=flat-square&logo=kanban&logoColor=white)
+![Scrum](https://img.shields.io/badge/-Scrum-007ACC?style=flat-square&logo=scrum&logoColor=white)
+
+API Testing:
+![Postman](https://img.shields.io/badge/-Postman-2C2255?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-007ACC?style=flat-square&logo=swagger&logoColor=white)
 
 </div>
-
+ 
 ---
