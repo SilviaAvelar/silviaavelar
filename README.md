@@ -42,8 +42,13 @@
         <img src="https://skillicons.dev/icons?i=selenium" width="40" height="40" alt="Selenium" />
       <br>Selenium
     </td>
+    <td align="center" width="96">
+        <img src="https://img.shields.io/badge/cypress-239120?style=for-the-badge&logo=cypress" width="40" height="40" alt="Cypress" />
+      <br>Cypress
+    </td>
 </div>
-  
+
+  ![Cypress](https://img.shields.io/badge/cypress-239120?style=for-the-badge&logo=cypress)&nbsp;
 <!-- **************************************************************** CONTATOS **************************************************************** -->
 
 <table align="center">
