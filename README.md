@@ -50,7 +50,6 @@
 <table align="center">
 <div align="center">
 
-<a href="https://instagram.com/silvia.avelar01" target="_blank"><img src="https://img.shields.io/badge/-Instagram:silvia.avelar01-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="http://www.linkedin.com/in/silvia-avelar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="mailto:avelar.silvia@yahoo.com"><img src="https://img.shields.io/badge/-Email: avelar.silvia@yahoo.com-%23E4405F?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
 
