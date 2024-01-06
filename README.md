@@ -51,12 +51,9 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/silvia.avelar01) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvia-avelar)
-[![Gmail](https://img.shields.io/badge/Gmail-%23ea4335.svg?logo=Gmail&logoColor=white)](scjc021211@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-&logo=telegram&logoColor=white)](https://telegram.com/SilviaAvelar)
-[![Yahoo](https://img.shields.io/badge/Yahoo-%23E4405F.svg?logo=Yahoo&logoColor=white)](https://www.avelar.silvia@yahoo.com) 
+[![Yahoo](https://img.shields.io/badge/Yahoo-%23E4405F.svg?logo=Yahoo&logoColor=white)](https://mailto:avelar.silvia@yahoo.com) 
 
-<a href = "mailto:jean.cp@yahoo.com"><img src="https://img.shields.io/badge/-Contacto: jean.cp@yahoo.com-%23E4405F?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
- 
 </div>
 
 ---
