@@ -23,3 +23,7 @@ These are some of the technologies and tools that I work with:
 | [![logo postman](https://img.shields.io/badge/-Postman-2C2255?style=flat-square&logo=postman&logoColor=white)](#) [![logo swagger](https://img.shields.io/badge/-Swagger-007ACC?style=flat-square&logo=swagger&logoColor=white)](#) [![logo insomnia](https://img.shields.io/badge/-Insomnia-2C2255?style=flat-square&logo=insomnia&logoColor=white)](#) | API Testing |
 
 ---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviaavelar&theme=gotham&layout=compact"width="47%"/> 
+</p>
