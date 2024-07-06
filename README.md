@@ -24,10 +24,9 @@ These are some of the technologies and tools that I work with:
 
 ---
 
-<h3 align="center">Linguagens Mais Usadas</h3>
-<div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviaavelar&theme=gotham&layout=compact&langs_count=10" style="width: 100%; height: auto;">
-</div>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviaavelar&theme=gotham&layout=compact&langs_count=10" style="max-width: 100%; height: auto;">
+</p>
 
 
 
