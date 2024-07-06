@@ -24,8 +24,9 @@ These are some of the technologies and tools that I work with:
 
 ---
 
-<div style="text-align: center; max-width: 100%; overflow: hidden;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviaavelar&theme=gotham&layout=compact&langs_count=10" style="max-width: 100%; height: auto;">
+<div style="text-align: center; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviaavelar&theme=gotham&layout=compact&langs_count=10" style="width: 100%;">
 </div>
+
 
 
