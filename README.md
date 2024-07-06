@@ -24,8 +24,7 @@ These are some of the technologies and tools that I work with:
 
 ---
 
-<div style="text-align: center; background-color: #f0f0f0; padding: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviaavelar&theme=gotham&layout=compact&langs_count=10" style="width: 100%; height: auto;">
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviaavelar&theme=dracula&layout=compact&langs_count=10" style="width: 100%; height: auto;">
+
 
 
