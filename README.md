@@ -25,7 +25,7 @@ These are some of the technologies and tools that I work with:
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviaavelar&theme=gotham&layout=compact&langs_count=10" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviaavelar&theme=gotham&layout=compact&langs_count=10" width="45%"/>
 </p>
 
 
