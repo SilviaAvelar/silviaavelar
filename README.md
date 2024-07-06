@@ -24,10 +24,22 @@ These are some of the technologies and tools that I work with:
 
 ---
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviaavelar&theme=gotham&layout=compact&langs_count=10" style="max-width: 100%; height: auto;">
-</p>
-
+<canvas id="language-chart" width="400" height="400"></canvas>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    var ctx = document.getElementById('language-chart').getContext('2d');
+    var chart = new Chart(ctx, {
+        type: 'pie',
+        data: {
+            labels: ['HTML', 'CSS', 'JavaScript', 'Python', 'Java', 'Ruby', 'C++'],
+            datasets: [{
+                label: 'Most Used Languages',
+                data: [20, 15, 30, 10, 5, 3, 2], // Substitua com seus próprios dados
+                backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF', '#FF9F40', '#FFD700'],
+            }]
+        }
+    });
+</script>
 
 
 
