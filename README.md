@@ -24,22 +24,35 @@ These are some of the technologies and tools that I work with:
 
 ---
 
-<canvas id="language-chart" width="400" height="400"></canvas>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<canvas id="language-chart" width="400" height="300"></canvas>
 <script>
-    var ctx = document.getElementById('language-chart').getContext('2d');
-    var chart = new Chart(ctx, {
-        type: 'pie',
-        data: {
-            labels: ['HTML', 'CSS', 'JavaScript', 'Python', 'Java', 'Ruby', 'C++'],
-            datasets: [{
-                label: 'Most Used Languages',
-                data: [20, 15, 30, 10, 5, 3, 2], // Substitua com seus próprios dados
-                backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF', '#FF9F40', '#FFD700'],
-            }]
-        }
+    document.addEventListener('DOMContentLoaded', function() {
+        var ctx = document.getElementById('language-chart').getContext('2d');
+        var chart = new Chart(ctx, {
+            type: 'horizontalBar',
+            data: {
+                labels: ['HTML', 'CSS', 'JavaScript', 'Python', 'Java', 'Ruby'],
+                datasets: [{
+                    label: 'Most Used Languages',
+                    data: [70, 60, 80, 40, 30, 20], // Substitua com seus próprios dados
+                    backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF', '#FF9F40'],
+                }]
+            },
+            options: {
+                scales: {
+                    xAxes: [{
+                        ticks: {
+                            beginAtZero: true
+                        }
+                    }]
+                }
+            }
+        });
     });
 </script>
+
 
 
 
