@@ -24,9 +24,18 @@ These are some of the technologies and tools that I work with:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviaavelar&theme=gotham&layout=compact&langs_count=10" width="47%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Silviaavelar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="220" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Silviaavelar&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=20&theme=dracula&hide_border=false" height="220" alt="languages graph" />
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kkawan/kkawan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kkawan/kkawan/output/github-contribution-grid-snake-dark.svg">
+    <img style="max-width: 100%; max-height: 100%;" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kkawan/kkawan/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 
 
