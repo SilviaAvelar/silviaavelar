@@ -37,6 +37,3 @@ These are some of the technologies and tools that I work with:
   </picture>
 </div>
 
-
-
-
