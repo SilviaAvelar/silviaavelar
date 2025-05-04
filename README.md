@@ -4,7 +4,19 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=Fira&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Desenvolvedora+WEB..." />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<!-- **************************************************************** PORTFOLIO **************************************************************** -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/silvia-avelar/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://silviaavelar.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-FF4081?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
+  </a>
+</p>
 
 <!-- **************************************************************** TECHNOLOGIES **************************************************************** -->
 
