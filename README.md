@@ -9,7 +9,7 @@
 <!-- **************************************************************** PORTFOLIO **************************************************************** -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/silvia-avelar/" target="_blank">
+  <a href="https://www.linkedin.com/in/silvia-avelar/" target="_blank" style="outline: none; text-decoration: none;">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
